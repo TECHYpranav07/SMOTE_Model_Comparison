@@ -30,7 +30,6 @@ The analysis includes both **quantitative metrics** and **qualitative observatio
   - Precision
   - Recall
   - F1-Score
-  - ROC-AUC
 - Understand model behavior and sensitivity to resampling techniques.
 
 ---
@@ -48,7 +47,6 @@ The analysis includes both **quantitative metrics** and **qualitative observatio
 Performance is evaluated using the following:
 - Confusion Matrix
 - Classification Report
-- ROC-AUC Curves
 - Cross-validation (where applicable)
 
 ---
