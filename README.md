@@ -75,6 +75,5 @@ Make sure to install necessary packages such as `imbalanced-learn`, `xgboost`, `
 ```bash
 pip install imbalanced-learn xgboost lightgbm scikit-learn matplotlib
 
-## 📁 Dataset
-- [Download Excel Dataset (Google Drive)](https://drive.google.com/drive/folders/1zEG2gec5AwLFsyr7g6c864RzVSs6_ftk?usp=sharing)
+
 
